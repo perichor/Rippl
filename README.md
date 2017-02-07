@@ -12,7 +12,7 @@ Once you have those two files setup, run npm install to get all the required pac
 
 Then run 
 ```javascript
-npm start server
+npm run server
 ```
 to start up your local express server.  From there, run 
 ```javascript
